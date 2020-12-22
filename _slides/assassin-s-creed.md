@@ -5,4 +5,6 @@ caption: Διαφάνειες για το κεφάλαιο Βιντεοπαιχ�
 image_url: /images/assassin-s-creed.jpg
 slides:
   - assassin-s-creed
+  - Fortnite
+  - The last of us
 ---
