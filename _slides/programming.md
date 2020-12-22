@@ -17,6 +17,7 @@ slides:
   - bbc-micro
   - kidsim
   - hypercard-layout
+  - java
   - max-language
   - mit-scratch
   - visual-basic-form-designer
@@ -25,5 +26,4 @@ slides:
   - vim-ide
   - processing-ide 
   - learntomod
-  - java
 ---
