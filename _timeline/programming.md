@@ -17,6 +17,7 @@ events:
   - microsoft-basic
   - kidsim
   - hypercard-layout
+  - java
   - max-language
   - mit-scratch
   - visual-basic-form-designer
@@ -24,5 +25,4 @@ events:
   - eclipse-ide
   - processing-ide 
   - learntomod
-  - java
 ---
