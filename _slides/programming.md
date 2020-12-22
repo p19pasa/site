@@ -25,5 +25,5 @@ slides:
   - vim-ide
   - processing-ide 
   - learntomod
-  - Java
+  - java
 ---
