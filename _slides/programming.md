@@ -17,8 +17,8 @@ slides:
   - bbc-micro
   - kidsim
   - hypercard-layout
-  - java
   - max-language
+  - java
   - mit-scratch
   - visual-basic-form-designer
   - squeakos
