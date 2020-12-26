@@ -15,5 +15,5 @@ events:
   - pop
   - math-blaster
   - minecraft-end-user
-  - assassin's-creed
+  - assassin-s-creed
 ---
