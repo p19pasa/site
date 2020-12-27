@@ -9,5 +9,3 @@ categories:
 tags:
   - Videogames
 ---
-
-{% include bio-assassin-s-creed.md %}
