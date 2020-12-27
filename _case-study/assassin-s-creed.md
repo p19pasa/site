@@ -9,3 +9,7 @@ categories:
 tags:
   - Videogames
 ---
+
+{% include extras/cs-arduino.md %}
+
+{% include gallery %}
