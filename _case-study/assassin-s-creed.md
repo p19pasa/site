@@ -9,7 +9,3 @@ categories:
 tags:
   - Videogames
 ---
-
-{% include extras/cs-assassin-s-creed.md %}
-
-{% include gallery %}
