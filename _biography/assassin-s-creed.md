@@ -9,3 +9,5 @@ categories:
 tags:
   - Videogames
 ---
+
+{% include_relative bio-kay.md %}
