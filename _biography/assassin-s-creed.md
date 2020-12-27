@@ -10,4 +10,4 @@ tags:
   - Videogames
 ---
 
-{% include_relative bio-assassin-s-creed.md %}
+{% include bio-assassin-s-creed.md %}
